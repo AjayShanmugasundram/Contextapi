@@ -1,4 +1,3 @@
-import react from "react";
 import { Context } from "./compa";
 import React from "react";
 
